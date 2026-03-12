@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on<br><br>Building my DSA foundation and developing web projects using HTML & CSS<br><br>👥 I'm looking to collaborate on<br><br>Frontend web development projects and beginner-friendly open source contributions<br><br>🤝 I'm looking for help with<br><br>Best practices in web development and tips for mastering Data Structures & Algorithms<br><br>🌱 I'm currently learning<br><br>Data Structures & Algorithms (C++) and modern web development<br><br>💬 Ask me about<br><br>HTML, CSS, C++, or anything about getting started with web development<br><br>⚡ Fun fact<br><br>I built a pixel-accurate Spotify clone using just HTML and CSS — no JavaScript!
+🔭 I'm currently working on<br>Building my DSA foundation and developing web projects using HTML & CSS<br><br>👥 I'm looking to collaborate on<br>Frontend web development projects and beginner-friendly open source contributions<br><br>🤝 I'm looking for help with<br>Best practices in web development and tips for mastering Data Structures & Algorithms<br><br>🌱 I'm currently learning<br>Data Structures & Algorithms (C++) and modern web development<br><br>💬 Ask me about<br>HTML, CSS, C++, or anything about getting started with web development<br><br>⚡ Fun fact<br>I built a pixel-accurate Spotify clone using just HTML and CSS — no JavaScript!
 
 
 ## 🌐 Socials:
